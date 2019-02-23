@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.DataAnnotations",
+  "version": "1.0.0",
+  "description": "Vapid push notification",
+  "main": "RevStackCore.DataAnnotations.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStackCore/DataAnnotations.git"
+  },
+  "author": "S. Francis",
+  "license": "AGPLv3",
+  "bugs": {
+		"url": "https://github.com/RevStackCore/DataAnnotations/issues"
+  },
+	"homepage": "https://github.com/RevStackCore/DataAnnotations"
+}
