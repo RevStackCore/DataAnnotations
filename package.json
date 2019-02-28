@@ -1,7 +1,7 @@
 {
   "name": "RevStackCore.DataAnnotations",
-  "version": "1.0.0",
-  "description": "Vapid push notification",
+  "version": "1.0.1",
+  "description": "Common Type and Property Data Attributes",
   "main": "RevStackCore.DataAnnotations.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

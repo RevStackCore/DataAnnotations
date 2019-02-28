@@ -9,5 +9,10 @@ namespace RevStackCore.DataAnnotations
     [AttributeUsage(AttributeTargets.Property)]
     public class PrimaryKeyAttribute : AttributeBase
     {
+        public PrimaryKeyAttribute(bool explicitKey=false)
+        {
+            ExplicitKey = explicitKey;
+        }
+        public bool ExplicitKey { get; set; }
     }
 }
