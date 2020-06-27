@@ -1,7 +1,7 @@
 ﻿using System;
-namespace RevStackCore.DataAnnotations.DataAnnotations
+namespace RevStackCore.DataAnnotations
 {
-    [AttributeUsage(AttributeTargets.Class)]
+    [AttributeUsage(AttributeTargets.Property)]
     public class ColumnAttribute : AttributeBase
     {
         public ColumnAttribute(string columnName)
