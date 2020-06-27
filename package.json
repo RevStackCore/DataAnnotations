@@ -1,6 +1,6 @@
 {
   "name": "RevStackCore.DataAnnotations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common Type and Property Data Attributes",
   "main": "RevStackCore.DataAnnotations.sln",
   "scripts": {
