@@ -1,10 +1,13 @@
 ﻿using System;
 namespace RevStackCore.DataAnnotations.DataAnnotations
 {
-    public class ColumnAttribute
+    [AttributeUsage(AttributeTargets.Class)]
+    public class ColumnAttribute : AttributeBase
     {
-        public ColumnAttribute()
+        public ColumnAttribute(string columnName)
         {
+            Name = columnName;
         }
+        public string Name { get; set; }
     }
 }

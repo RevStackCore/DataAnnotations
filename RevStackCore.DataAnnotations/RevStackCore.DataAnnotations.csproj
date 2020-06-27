@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.DataAnnotations</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Description>Common Type and Property Data Attributes</Description>
     <PackageProjectUrl>https://github.com/RevStackCore/DataAnnotations.git</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/RevStackCore/DataAnnotations/blob/master/LICENSE</PackageLicenseUrl>
